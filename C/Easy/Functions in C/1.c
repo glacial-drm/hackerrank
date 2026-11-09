@@ -1,5 +1,6 @@
 // date - 2026/02/xx
 // tags - function input
+// score - 10/10
 
 #include <stdio.h>
 /*

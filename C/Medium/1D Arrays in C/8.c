@@ -1,6 +1,6 @@
 // tags - array string input pointer-arithmetic
 // date - 2026/02/xx
-// score - 10/10i
+// score - 10/10
 
 #include <stdio.h>
 #include <string.h>

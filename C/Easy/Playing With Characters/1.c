@@ -1,5 +1,5 @@
-// date - 2026/02/xx
 // tags - string fstring input
+// date - 2026/02/xx
 // score - 5/5
 
 #include <stdio.h>

@@ -1,5 +1,5 @@
-// date - 2026/02/xx
 // tags - string math input
+// date - 2026/02/xx
 // score - 10/10
 
 #include <assert.h>

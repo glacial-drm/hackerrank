@@ -1,5 +1,5 @@
-// date - 2026/02/xx
 // tags - string math
+// date - 2026/02/xx
 // score - 10/10
 
 #include <stdio.h>
